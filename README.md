@@ -4,7 +4,7 @@
 ![Static Badge](https://img.shields.io/badge/STATUS-DEVELOPING-yellow)
 ## Descrição do Projeto
 
-  Projeto de Token ERC-20 com fins de estudo, desenvolvido, compilado, testado e implementado com auxílio da suíte de ferramentas HardHat.
+  Projeto de [Token ERC-20](https://ethereum.org/pt/developers/docs/standards/tokens/erc-20/) com base na biblioteca [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC20), para fins de estudo. O desenvolvimento, a compilação, os testes e a implementação foram realizadas com auxílio da suíte de ferramentas [HardHat](https://github.com/NomicFoundation/hardhat).
 
 ## Índice
 
